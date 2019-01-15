@@ -44,7 +44,7 @@ export default class Container extends Component {
       return (
         <Grid centered padded relaxed divided stackable>
           <Grid.Row>
-            <h1><Icon name='shopping basket' color='teal'/> Basket <Icon name='shopping basket' color='teal'/></h1>
+            <h1><Icon name='shopping basket' color='teal'/> Shopping Basket <Icon name='shopping basket' color='teal'/></h1>
           </Grid.Row>
           <Grid.Row>
             <Grid.Column width={4}>

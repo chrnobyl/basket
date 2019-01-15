@@ -1,4 +1,4 @@
-########## Untapt Code Test: Basket ##########
+# Shopping Basket README
 
 This code test solution was written in React/JavaScript and built with Webpack. Styling was done with Semantic UI React and CSS.
 
